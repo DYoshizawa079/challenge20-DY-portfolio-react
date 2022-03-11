@@ -4,6 +4,7 @@ import Navigation from './components/Navigation';
 import About from './components/About';
 import Project from './components/Project';
 import Contact from './components/Contact';
+import Resume from './components/Resume';
 import Footer from './components/Footer';
 import './App.css';
 
@@ -21,6 +22,9 @@ function App() {
     }
     if (currentPage === 'Contact') {
       return <Contact />
+    }
+    if (currentPage === 'Resume') {
+      return <Resume />
     }
   }
   
