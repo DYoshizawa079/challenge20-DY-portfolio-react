@@ -16,16 +16,28 @@ function Project() {
             githubURL: "https://kcfraser.github.io/Generate-yo-plate/",
         },
         {
-            name: "Generate Yo' Plate",
-            src: "project-generate-yo-plate.jpg",
-            deploymentURL: "https://kcfraser.github.io/Generate-yo-plate/",
+            name: "Budget App",
+            src: "project-budgetapp.jpg",
+            deploymentURL: "https://agile-retreat-88774.herokuapp.com/",
+            githubURL: "https://github.com/DYoshizawa079/challenge19-budget-alphaD",
+        },
+        {
+            name: "Coding Quiz Challenge",
+            src: "project-codingquiz.jpg",
+            deploymentURL: "https://dyoshizawa079.github.io/challenge4-code-quiz/",
             githubURL: "https://kcfraser.github.io/Generate-yo-plate/",
         },
         {
-            name: "Generate Yo' Plate",
-            src: "project-generate-yo-plate.jpg",
-            deploymentURL: "https://kcfraser.github.io/Generate-yo-plate/",
-            githubURL: "https://kcfraser.github.io/Generate-yo-plate/",
+            name: "Horiseon Site Refactoring",
+            src: "project-horiseon.png",
+            deploymentURL: "https://dyoshizawa079.github.io/challenge1-horiseon-refactored/",
+            githubURL: "https://github.com/DYoshizawa079/challenge1-horiseon-refactored",
+        },
+        {
+            name: "Run Buddy",
+            src: "project-runbuddy.png",
+            deploymentURL: "https://dyoshizawa079.github.io/run-buddy/",
+            githubURL: "https://github.com/DYoshizawa079/run-buddy",
         },
     ]);
 
