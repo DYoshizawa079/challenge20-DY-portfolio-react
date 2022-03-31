@@ -4,6 +4,12 @@ function Project() {
 
     const [projects] = useState([
         {
+            name: "Boats Boats Boats!!",
+            src: "project-boatsboatsboats.jpg",
+            deploymentURL: "https://infinite-escarpment-26658.herokuapp.com/",
+            githubURL: "https://github.com/QuinnPucci/full-stack-ecommerce",
+        },
+        {
             name: "Petbook",
             src: "project-petbook.png",
             deploymentURL: "https://infinite-escarpment-26658.herokuapp.com/",
