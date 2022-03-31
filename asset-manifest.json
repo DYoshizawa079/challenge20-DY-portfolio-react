@@ -1,13 +1,14 @@
 {
   "files": {
     "main.css": "/challenge20-dy-portfolio-react/static/css/main.c385a89c.css",
-    "main.js": "/challenge20-dy-portfolio-react/static/js/main.f86429fb.js",
+    "main.js": "/challenge20-dy-portfolio-react/static/js/main.dda30a61.js",
     "static/js/787.62245cce.chunk.js": "/challenge20-dy-portfolio-react/static/js/787.62245cce.chunk.js",
     "static/media/project-horiseon.png": "/challenge20-dy-portfolio-react/static/media/project-horiseon.7138aa280e92fa7c8fc0.png",
     "static/media/project-upcoming.png": "/challenge20-dy-portfolio-react/static/media/project-upcoming.03ae4bb899cfbc5f61cd.png",
     "static/media/project-runbuddy.png": "/challenge20-dy-portfolio-react/static/media/project-runbuddy.aec6dc26d16647dcd95e.png",
     "static/media/screenshot.png": "/challenge20-dy-portfolio-react/static/media/screenshot.75b237919578e2565af7.png",
     "static/media/project-generate-yo-plate.jpg": "/challenge20-dy-portfolio-react/static/media/project-generate-yo-plate.eb605429beb2d089a6aa.jpg",
+    "static/media/project-boatsboatsboats.jpg": "/challenge20-dy-portfolio-react/static/media/project-boatsboatsboats.2cc88f100d91fd57edab.jpg",
     "static/media/project-budgetapp.jpg": "/challenge20-dy-portfolio-react/static/media/project-budgetapp.d5f1caad3e29dad52b5d.jpg",
     "static/media/profile.jpg": "/challenge20-dy-portfolio-react/static/media/profile.48f0b37d2b146fc59261.jpg",
     "static/media/resume.pdf": "/challenge20-dy-portfolio-react/static/media/resume.098117b7ce482426dd5b.pdf",
@@ -16,11 +17,11 @@
     "static/media/dummy-img.jpg": "/challenge20-dy-portfolio-react/static/media/dummy-img.368b895418fe78153dc1.jpg",
     "index.html": "/challenge20-dy-portfolio-react/index.html",
     "main.c385a89c.css.map": "/challenge20-dy-portfolio-react/static/css/main.c385a89c.css.map",
-    "main.f86429fb.js.map": "/challenge20-dy-portfolio-react/static/js/main.f86429fb.js.map",
+    "main.dda30a61.js.map": "/challenge20-dy-portfolio-react/static/js/main.dda30a61.js.map",
     "787.62245cce.chunk.js.map": "/challenge20-dy-portfolio-react/static/js/787.62245cce.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.c385a89c.css",
-    "static/js/main.f86429fb.js"
+    "static/js/main.dda30a61.js"
   ]
 }
